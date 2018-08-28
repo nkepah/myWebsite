@@ -1,4 +1,6 @@
 # myWebsite
 Hello guys,
-this is myu website. please leave a comment
+this is my website. please leave a comment
 Thanks
+
+my brother is lovely
